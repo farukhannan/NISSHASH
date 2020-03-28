@@ -13,23 +13,26 @@ FIGHT AGAINST COVID-19
 <p>INHALE TO EXHALE RATIO(I:E)</p>
 <p>OXYGEN CONCENTRATION CONTROL (FI02)</p>
 </h3>
-SAFETY ADDON:
-1)PEAK PRESSURE ALARM
-2) PEEP LEVEL DETECTION
-3) PATIENT BREATHING DETECTION
-4) SAFE FOR INTUBATED INVASIVE TYPE VENTILATION and also Noninvasive type CPAP mode
-SPECIAL ADDON :
+<h2>SAFETY ADDON:</h2>
+<h3>
+<p>1)PEAK PRESSURE ALARM</p>
+<p>2) PEEP LEVEL DETECTION</p>
+<p>3) PATIENT BREATHING DETECTION</p>
+<p>4) SAFE FOR INTUBATED INVASIVE TYPE VENTILATION and also Noninvasive type CPAP mode</p>
+</h3>
+<h2>SPECIAL ADDON :</h2>
+<h3>
 1)	SELF TEST ON STARTUP
 2)	INLET OXYGEN DETECTION
 3)	INHALE EXHALE FLOW RATE DETECTION
 4)	TEMPERATURE DETECTION
-
-KEY DIFFERENCE
+<h2>
+</h3>KEY DIFFERENCE
 COST 15000 BDT
+</h2>
 
 
-
-
+<h4>
 Features:
 1.	Only concentrated for Covid-19 patients who required  ICU and perform sedated intubating and providing ventilation including Clinical steps taken for ARDS ensuring all safety and alarm required by any medical authority global.
 2.	UI of the machine similar of existing commercial machine.
@@ -89,4 +92,4 @@ On a platinum wire used inside a PT100 placed on an aluminum sink plate are very
 
 Component B problem and solution: Heating and Cooling of PT100 platinum wire has one limitation which is a time lag of signal it can be easily overcome by making zero flow limit detection level shifted positively by 5%. So on 5% it will detect no flow and combined with current detection which is highly sensible it can trigger next logic. 
 
-
+</h4>
